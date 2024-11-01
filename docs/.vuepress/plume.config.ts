@@ -14,7 +14,8 @@ export default defineThemeConfig({
   appearance: true,
 
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/nasa1024' },
+    { icon: 'twitter', link: 'https://x.com/CindyCo98345620' },
   ],
 
   locales: {

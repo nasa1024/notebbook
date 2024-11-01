@@ -7,16 +7,13 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: nasa1024
+      tagline: 全栈开发工程师
+      text: 关注人工智能、大数据、云计算、区块链、Web3.0、元宇宙等前沿技术
+      image: /images/avatar.png
       actions:
         -
           theme: brand
           text: 博客
           link: /blog/
-        -
-          theme: alt
-          text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---

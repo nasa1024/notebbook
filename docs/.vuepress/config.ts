@@ -7,14 +7,14 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'nasa&#x27;s blog',
+      title: 'nasa’s blog',
       lang: 'zh-CN',
-      description: 'nasa&#x27;s blog',
+      description: 'nasa’s blog',
     },
     '/en/': {
-      title: 'nasa&#x27;s blog',
+      title: 'nasa’s blog',
       lang: 'en-US',
-      description: 'nasa&#x27;s blog',
+      description: 'nasa’s blog',
     },
   },
 
