@@ -4,6 +4,7 @@ tags:
   - prompt
   - openai
 createTime: 2024/11/01 16:02:01
+permalink: /article/j9zbrq6q/
 ---
 
 **openai Text completion指南**

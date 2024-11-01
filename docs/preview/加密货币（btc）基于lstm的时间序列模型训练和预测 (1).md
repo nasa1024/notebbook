@@ -550,7 +550,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![45067e0d68329c1ad099ce625e9dc72a.png](/static/img/78a4e895869ec0d513456b0e1f57f1cf.45067e0d68329c1ad099ce625e9dc72a.webp)
+<!-- ![45067e0d68329c1ad099ce625e9dc72a.png](/static/img/78a4e895869ec0d513456b0e1f57f1cf.45067e0d68329c1ad099ce625e9dc72a.webp) -->
 
 # todo   
 * [ ] 模型转化为生产   
