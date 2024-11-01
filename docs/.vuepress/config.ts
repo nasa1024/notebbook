@@ -22,7 +22,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    // hostname: 'https://your_site_url',
+    hostname: 'https://nasa1024.q-wifi.com',
 
     plugins: {
       /**
@@ -84,5 +84,6 @@ export default defineUserConfig({
       //   inputPosition: 'top',
       // },
     },
+
   }),
 })

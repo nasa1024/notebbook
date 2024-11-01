@@ -21,10 +21,10 @@ export default defineThemeConfig({
   locales: {
     '/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'nasa&#x27;s blog',
-        description: 'nasa&#x27;s blog',
-        // circle: true,
+        avatar: 'https://avatars.githubusercontent.com/u/28981872?s=400&u=62aa62940002d7ce7a149dd856809208e8c34116&v=4',
+        name: 'nasa1024',
+        description: '全栈开发工程师',
+        circle: true,
         // location: '',
         // organization: '',
       },
@@ -35,8 +35,8 @@ export default defineThemeConfig({
     '/en/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'nasa&#x27;s blog',
-        description: 'nasa&#x27;s blog',
+        name: 'nasa1024',
+        description: 'Full Stack Developer',
         // circle: true,
         // location: '',
         // organization: '',

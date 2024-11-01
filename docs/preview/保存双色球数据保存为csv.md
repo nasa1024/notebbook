@@ -6,7 +6,9 @@ tags:
 createTime: 2024/11/01 16:02:01
 permalink: /article/7fsiywqq/
 ---
+将会介绍一直快速的从`500彩票网`中导出双色球数据为csv文件的方法
 
+<!-- more -->
 
 # 第一步
 进入 [https://datachart.500.com/ssq/history/history.shtml](https://datachart.500.com/ssq/history/history.shtml)
