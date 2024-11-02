@@ -2,7 +2,7 @@
 title: deepin 使用 rz sz上传下载文件
 tags:
   - linux
-createTime: 2024/11/01 16:02:01
+createTime: 2021/11/01 16:02:01
 permalink: /article/5siywqdwq/
 ---
 

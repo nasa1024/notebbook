@@ -3,7 +3,7 @@ title: 保存双色球数据保存为csv
 tags:
   - 双色球
   - 数据抓取
-createTime: 2024/11/01 16:02:01
+createTime: 2020/11/01 16:02:01
 permalink: /article/7fsiywqq/
 ---
 将会介绍一直快速的从`500彩票网`中导出双色球数据为csv文件的方法
